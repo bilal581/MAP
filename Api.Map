@@ -4,21 +4,21 @@
     "latitude": 33.607458891225285,
     "longitude": -7.627384044618713,
     "web": "www.google.com",
-    "type": "cafe",
+    "type": "cafe"
   },
   {
     "name": "Marker 2",
     "latitude": 48.8566,
     "longitude": 2.3522,
     "web": "www.youtube.com",
-    "type": "restaurant",
+    "type": "restaurant"
   },
   {
     "name": "Marker 3",
     "latitude": 40.7128,
     "longitude": -74.0060,
     "web": "www.instagram.com",
-    "type": "food",
+    "type": "food"
   }
 ]
 
