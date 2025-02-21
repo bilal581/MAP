@@ -1,8 +1,9 @@
 [
   {
-    "name": "Marker 1",
-    "latitude": 33.436842,
-    "longitude":  -7.663024,
+    "name": "Cafe J. Madison",
+    "latitude": 33.460265281807615,
+    "longitude":  -7.645834752617604,
+    "web": "https://www.instagram.com/j.madisoncafe_restaurant/",
     "type": "cafe"
   },
   {
