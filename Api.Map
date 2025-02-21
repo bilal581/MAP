@@ -3,21 +3,21 @@
     "name": "Cafe J. Madison Bouskoura",
     "latitude": 33.460265281807615,
     "longitude":  -7.645834752617604,
-    "web": "https://www.instagram.com/j.madisoncafe_restaurant",
+    "web": "https://www.instagram.com/j.madisoncafe_restaurant/",
     "type": "cafe"
   },
   {
     "name": "Rimas Al Cham Bouskoura",
     "latitude": 33.46092196751378,
     "longitude": -7.64488136410428,
-    "web": "https://www.instagram.com/rimas.al.cham",
+    "web": "https://www.instagram.com/rimas.al.cham/",
     "type": "restaurant"
   },
   {
     "name": "SAMOS Bouskoura",
     "latitude": 33.43195937245264,
     "longitude": -7.640781154319391,
-    "web": "https://www.facebook.com/p/SAMOS-Bouskoura-100069097626932",
+    "web": "https://www.facebook.com/SAMOS-Bouskoura/",
     "type": "food"
   }
 ]
