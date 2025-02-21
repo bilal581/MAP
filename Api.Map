@@ -1,23 +1,23 @@
 [
   {
-    "name": "Cafe J. Madison",
+    "name": "Cafe J. Madison Bouskoura",
     "latitude": 33.460265281807615,
     "longitude":  -7.645834752617604,
-    "web": "https://www.instagram.com/j.madisoncafe_restaurant/",
+    "web": "https://www.instagram.com/j.madisoncafe_restaurant",
     "type": "cafe"
   },
   {
-    "name": "Marker 2",
-    "latitude": 33.412779,
-    "longitude": -7.677041,
-    "web": "www.youtube.com",
+    "name": "Rimas Al Cham Bouskoura",
+    "latitude": 33.46092196751378,
+    "longitude": -7.64488136410428,
+    "web": "https://www.instagram.com/rimas.al.cham",
     "type": "restaurant"
   },
   {
-    "name": "Marker 3",
-    "latitude": 33.412544,
-    "longitude": -7.679430,
-    "web": "www.instagram.com",
+    "name": "SAMOS Bouskoura",
+    "latitude": 33.43195937245264,
+    "longitude": -7.640781154319391,
+    "web": "https://www.facebook.com/p/SAMOS-Bouskoura-100069097626932",
     "type": "food"
   }
 ]
